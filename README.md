@@ -38,7 +38,7 @@
 ---
 
 
-<img align="left" alt="Skylar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skylarbarrera&show_icons=true&hide_border=true" />
+[//]: # <img align="left" alt="Skylar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skylarbarrera&show_icons=true&hide_border=true" />
 
 [website]: https://skylarbarrera.com
 [twitter]: https://twitter.com/FreakyFunkHorse
