@@ -14,6 +14,8 @@
 
 [<img align="left" alt="Skylar Barrera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="Skylar Barrera | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+
 <br />
 
 ### Languages and Tools:
@@ -40,7 +42,8 @@
 
 
 [website]: https://skylarbarrera.com
+[linkedin]: https://linkedin.com/in/skylarbarrera
 [twitter]: https://twitter.com/FreakyFunkHorse
 [instagram]: https://instagram.com/skylarbarrera
-[linkedin]: https://linkedin.com/in/skylarbarrera
+[spotify]: https://open.spotify.com/user/121764054 
 
