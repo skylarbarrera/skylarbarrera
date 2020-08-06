@@ -1,7 +1,7 @@
 ### Hi there, I'm [Skylar!][website] 👋
 
 ## I'm a Software Developer, Tech Consultant, & Creative Technologist
-- 🔭 I’m currently working on freelance websites & a trading bot for DeFi Crypto Markets
+- 🔭 I’m currently working as a freelancer and working on some personal projects while I search for employment!
 - 🎨 I'm always exploring and learning more about Creative Coding using OpenFrameworks, OpenCV, and other platforms!
 - 🥅 2020 Goals: Land a full-time job working on a project I love!
 - ⚡ Fun fact: I love to play the guitar and make music with my friends!
