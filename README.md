@@ -27,7 +27,7 @@
  <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- <img align="left" alt="Next.js" width="26px" src="https://repository-images.githubusercontent.com/70107786/6532af00-82ea-11ea-9d1a-7fcded8ac5d3" />
+ <img align="left" alt="Next.js" width="26px" src="https://camo.githubusercontent.com/0bbf728fe4c8b213f3723eaac321fbb30e68be19/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" />
  <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
  <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
  <img align="left" alt="OpenZeppelin" width="26px" src="https://avatars0.githubusercontent.com/u/20820676?s=200&v=4" />
