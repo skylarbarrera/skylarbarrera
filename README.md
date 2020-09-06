@@ -5,7 +5,7 @@
 - I'm always exploring new technologies and learning new things!
 - I am passionate about Creative Coding using OpenFrameworks, OpenCV, and other platforms to make expressive and interactive art!
 - 2020 Goals: Land a full-time job working on a project I love!
-- Passions & Hobbies: Music (I play Guitar & Bass), Food (Love cooking exploring new foods), Travel (Next trip is to SE Asia)
+- Passions & Hobbies: Music (I play Guitar & Bass), Food (Love cooking & exploring new foods), Travel (Next trip is to SE Asia)
 
 ### Connect with me:
 
