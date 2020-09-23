@@ -1,7 +1,7 @@
 ### Hi there, I'm [Skylar!][website] 👋
 
 ## I'm a Software Developer, Tech Consultant, & Creative Technologist
-- I’m currently working as a freelancer and working on some personal projects while I search for employment!
+- I’m currently working as a QA developer at [:rainbow:][rainbow] and working on some personal projects as well!
 - I'm always exploring new technologies and learning new things!
 - I am passionate about Creative Coding using OpenFrameworks, OpenCV, and other platforms to make expressive and interactive art!
 - 2020 Goals: Land a full-time job working on a project I love!
@@ -47,4 +47,5 @@
 [twitter]: https://twitter.com/FreakyFunkHorse
 [instagram]: https://instagram.com/skylarbarrera
 [spotify]: https://open.spotify.com/user/121764054 
+[rainbow]: https://rainbow.me
 
