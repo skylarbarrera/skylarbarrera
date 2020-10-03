@@ -1,10 +1,10 @@
 ### Hi there, I'm [Skylar!][website] 👋
 
 ## I'm a Software Developer, Tech Consultant, & Creative Technologist
-- I’m currently working as a QA developer at [:rainbow: rainbow.me][rainbow]  and working on some personal projects as well!
-- I'm always exploring new technologies and learning new things!
-- I am passionate about Creative Coding using OpenFrameworks, OpenCV, and other platforms to make expressive and interactive art!
-- 2020 Goals: Land a full-time job working on a project I love! :white_check_mark:
+- Currently working as a QA developer at [:rainbow: rainbow.me][rainbow]  and working on some personal projects as well!
+- Always exploring new technologies and learning new things!
+- Passionate about Creative Coding using OpenFrameworks, OpenCV, and other platforms to make expressive and interactive art!
+- 2020 Goals: Land a full-time job working on a project I love! :white_check_mark: :rainbow:
 - Passions & Hobbies: Music (I play Guitar & Bass), Food (Love cooking & exploring new foods), Travel (Next trip is to SE Asia)
 
 ### Connect with me:
