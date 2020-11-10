@@ -1,5 +1,4 @@
-### Hi there, I'm [Skylar!][website] https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif
-
+### Hi there, I'm [Skylar!][website] 
 ## I'm a Software Developer & Creative Technologist
 - Currently working as a QA developer at [:rainbow: rainbow.me][rainbow] and working on some personal projects as well!
 - I'm always exploring new technologies and learning new things!
